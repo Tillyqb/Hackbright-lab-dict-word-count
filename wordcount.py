@@ -10,4 +10,4 @@ def word_count(file_name):
     for word, count in word_count.items():
         print (word,count)
 
-word_count('test.txt')
+word_count('twain.txt')
